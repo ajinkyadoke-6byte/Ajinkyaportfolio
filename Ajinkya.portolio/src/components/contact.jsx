@@ -111,14 +111,14 @@ const Contact = () => {
                 >
                   <FaLinkedin />
                 </a>
-                <a
+                {/* <a
                   href="https://twitter.com/your-twitter-username"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="text-gray-400 hover:text-purple-500 text-xl sm:text-2xl transition-colors duration-300"
                 >
                   <FaTwitter />
-                </a>
+                </a> */}
               </div>
             </div>
 
