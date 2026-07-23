@@ -203,6 +203,8 @@ const About = () => {
 
               <p className='text-gray-400 text-sm sm:text-base leading-relaxed mt-4 sm:mt-6 text-center md:text-left'>
                 When I'm not coding, you can find me exploring new technologies, contributing to open-source projects, or sharing my knowledge through tech blogs and tutorials. I believe in continuous learning and pushing the boundaries of what's possible on the web.
+
+                currently I'am complete the 1 month duration internship in Machine Learning
               </p>
 
               {/*cards: first 2 in a row, 3rd centered below */}
